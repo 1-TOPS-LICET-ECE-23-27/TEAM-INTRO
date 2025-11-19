@@ -81,14 +81,14 @@ These experiments build foundational understanding of digital logic, RTL design,
 ## 👥 Team Members
 | Name | Role | LinkedIn | GitHub |
 |------|------|----------|--------|
-| Member 1 | RTL Design & Modeling | [LinkedIn](http://www.linkedin.com/in/jenlin-anne-flora-8381252a3) | [GitHub](https://github.com/Jenlin549) |
-| Member 2 | Verification & Simulation | [LinkedIn](https://www.linkedin.com/in/jason-goldwin-v-827796290/) | [GitHub](https://github.com/Goldwinjason) |
-| Member 3 | Synthesis & Timing | [LinkedIn](https://www.linkedin.com/in/archana-r-b88b192b7/) | [GitHub](https://github.com/archana-r3961) |
-| Member 4 | FPGA & Prototyping | [LinkedIn](https://www.linkedin.com/in/bennett-dhanya-145095292/) | [GitHub](https://github.com/bennettdhanya15) |
-| Member 5 | Physical Design (PD) | [LinkedIn](https://www.linkedin.com/in/jayahariniece/) | [GitHub](https://github.com/Jayaharini-B) |
-| Member 6 | OpenLane & Research | [LinkedIn](https://www.linkedin.com/in/kaviyathangavel04/) | [GitHub](https://github.com/kaviyat803-droid) |
-| Member 7 | Documentation & Workflow | [LinkedIn]() | [GitHub](https://github.com/remidayakar) |
-| Member 8 | Collaboration Lead | [LinkedIn](https://www.linkedin.com/in/tabitha-v-949657290/) | [GitHub](https://github.com/olivetabitha01) |
+| Member 1 | RTL Design – Core Logic Developer | [LinkedIn](http://www.linkedin.com/in/jenlin-anne-flora-8381252a3) | [GitHub](https://github.com/Jenlin549) |
+| Member 2 | RTL Design – Peripherals & Memory Developer | [LinkedIn](https://www.linkedin.com/in/jason-goldwin-v-827796290/) | [GitHub](https://github.com/Goldwinjason) |
+| Member 3 | Verification – Testbench Developer | [LinkedIn](https://www.linkedin.com/in/archana-r-b88b192b7/) | [GitHub](https://github.com/archana-r3961) |
+| Member 4 | Verification – Simulation & Debug Engineer | [LinkedIn](https://www.linkedin.com/in/bennett-dhanya-145095292/) | [GitHub](https://github.com/bennettdhanya15) |
+| Member 5 | Synthesis – Timing & Reports Engineer | [LinkedIn](https://www.linkedin.com/in/jayahariniece/) | [GitHub](https://github.com/Jayaharini-B) |
+| Member 6 | FPGA Implementation – Bitstream & Pin Mapping Engineer | [LinkedIn](https://www.linkedin.com/in/kaviyathangavel04/) | [GitHub](https://github.com/kaviyat803-droid) |
+| Member 7 | Physical Design – OpenLane Floorplan Engineer | [LinkedIn]() | [GitHub](https://github.com/remidayakar) |
+| Member 8 | Physical Design – Final Layout & Documentation Engineer | [LinkedIn](https://www.linkedin.com/in/tabitha-v-949657290/) | [GitHub](https://github.com/olivetabitha01) |
 
 ---
 
