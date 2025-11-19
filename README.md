@@ -2,7 +2,7 @@
 ### *An initiative by 8 enthusiastic students to bridge the industry–academia gap*
 
 <p align="center">
-  <img src="./exp vlsi.jpg" alt="VLSI Experience Banner" width="600">
+  <img src="RISC V.jpg" alt="VLSI Experience Banner" width="600">
 </p>
 
 ---
